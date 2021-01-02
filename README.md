@@ -7,6 +7,7 @@ I aim to improve my Data Structures and algorithms skills and share a roadmap wi
 🟢 Easy questions<br />
 🔵 Medium questions<br />
 🟣 Hard questions<br />
+🔴 CTCI question<br />
 
 I aim to solve recent interview questions from Leetcode and all the problems from Cracking the Coding Interview. I'll be solving a few easy, medium and hard questions from every topic, gradually increasing the difficulty level.<br />
 
