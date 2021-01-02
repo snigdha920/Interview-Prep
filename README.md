@@ -8,7 +8,7 @@ I aim to improve my Data Structures and algorithms skills and share a roadmap wi
 🔵 Medium questions<br />
 🟣 Hard questions<br />
 
-I aim to solve recent interview questions from Leetcode and all the problems from Cracking the Coding Interview. I'll be solving a few easy, medium and hard questions from a every topic, gradually increasing the difficulty level.<br />
+I aim to solve recent interview questions from Leetcode and all the problems from Cracking the Coding Interview. I'll be solving a few easy, medium and hard questions from every topic, gradually increasing the difficulty level.<br />
 
 ## Arrays and String 
 🟢 [Rotate Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/646/) - [Solution](https://github.com/snigdha920/Interview-Prep/blob/main/Rotate%20Array.cpp)<br />
