@@ -28,5 +28,5 @@ I aim to solve recent interview questions from Leetcode and all the problems fro
 🔴 Palindrome Permutation - [Solution](https://github.com/snigdha920/Interview-Prep/blob/main/Palindrome%20Permutation.cpp)<br />
 🔴 [String Compression](https://leetcode.com/problems/string-compression) - [Solution](https://github.com/snigdha920/Interview-Prep/blob/main/String%20Compression.cpp)<br />
 🔴 [String Rotation](https://leetcode.com/problems/rotate-string/) - [Solution](https://github.com/snigdha920/Interview-Prep/blob/main/String%20Rotation.cpp)<br />
-🔴 [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) - [Solution](https://github.com/snigdha920/Interview-Prep/blob/main/Set%20Matrix%20Zeroes.cpp)
+🔴 [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) - [Solution](https://github.com/snigdha920/Interview-Prep/blob/main/Set%20Matrix%20Zeroes.cpp)<br />
 🔴 [Rotate Image](https://leetcode.com/problems/rotate-image/) - [Solution](https://github.com/snigdha920/Interview-Prep/blob/main/Rotate%20Image.cpp)
