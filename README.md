@@ -26,3 +26,4 @@ I aim to solve recent interview questions from Leetcode and all the problems fro
 🔵 [Longest Palindromic Substring](https://leetcode.com/explore/interview/card/top-interview-questions-medium/103/array-and-strings/780/) - [Solution](https://github.com/snigdha920/Interview-Prep/blob/main/Longest%20Palindromic%20Substring.cpp)<br /> 
 🔵 [3Sum](https://leetcode.com/explore/interview/card/top-interview-questions-medium/103/array-and-strings/776/) - [Solution](https://github.com/snigdha920/Interview-Prep/blob/main/3Sum.cpp)<br /> 
 🔴 Palindrome Permutation - [Solution](https://github.com/snigdha920/Interview-Prep/blob/main/Palindrome%20Permutation.cpp)<br />
+🔴 [String Compression](https://leetcode.com/problems/string-compression) - [Solution](https://github.com/snigdha920/Interview-Prep/blob/main/String%20Compression.cpp)
