@@ -31,4 +31,7 @@ I aim to solve recent interview questions from Leetcode and all the problems fro
 🔴 [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) - [Solution](https://github.com/snigdha920/Interview-Prep/blob/main/Set%20Matrix%20Zeroes.cpp)<br />
 🔴 [Rotate Image](https://leetcode.com/problems/rotate-image/) - [Solution](https://github.com/snigdha920/Interview-Prep/blob/main/Rotate%20Image.cpp)<br />
 🟣 [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) - [Solution](https://github.com/snigdha920/Interview-Prep/blob/main/Sliding%20Window%20Maximum.cpp)<br />
-🟣 [Product of Array Except Self](https://leetcode.com/explore/interview/card/top-interview-questions-hard/116/array-and-strings/827/) - [Solution](https://github.com/snigdha920/Interview-Prep/blob/main/Product%20of%20Array%20Except%20Self.cpp)
+🟣 [Product of Array Except Self](https://leetcode.com/explore/interview/card/top-interview-questions-hard/116/array-and-strings/827/) - [Solution](https://github.com/snigdha920/Interview-Prep/blob/main/Product%20of%20Array%20Except%20Self.cpp)<br />
+
+## Linked List 
+🟢 [Reverse Linked List](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/560/) - [Solution](https://github.com/snigdha920/Interview-Prep/blob/main/Reverse%20Linked%20List.cpp)<br />
