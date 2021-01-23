@@ -35,3 +35,4 @@ I aim to solve recent interview questions from Leetcode and all the problems fro
 
 ## Linked List 
 🟢 [Reverse Linked List](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/560/) - [Solution](https://github.com/snigdha920/Interview-Prep/blob/main/Reverse%20Linked%20List.cpp)<br />
+🟢 [Merge Two Sorted Lists](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/771/) - [Solution](https://github.com/snigdha920/Interview-Prep/blob/main/Merge%20Two%20Sorted%20Lists.cpp)<br />
