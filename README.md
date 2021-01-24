@@ -39,3 +39,4 @@ I aim to solve recent interview questions from Leetcode and all the problems fro
 🟢 [Linked List Cycle](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/773/) - [Solution](https://github.com/snigdha920/Interview-Prep/blob/main/Linked%20List%20Cycle.cpp)<br />
 🔵 [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) - [Solution](https://github.com/snigdha920/Interview-Prep/blob/main/Remove%20Duplicates%20from%20Sorted%20List%20II.cpp)<br />
 🔴 [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) - [Solution](https://github.com/snigdha920/Interview-Prep/blob/main/Remove%20Nth%20Node%20From%20End%20of%20List.cpp)<br />
+🔴 [Partition List](https://leetcode.com/problems/partition-list/) - [Solution](https://github.com/snigdha920/Interview-Prep/blob/main/Partition%20List.cpp)<br />
