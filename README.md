@@ -2,7 +2,9 @@
 
 Here are my topic wise solutions to recent interview from platforms including Leetcode, GeeksForGeeks, Interviewbit and other online judges.
 <br />
-I aim to improve my Data Structures and algorithms skills and share a roadmap with others who want to do the same! 
+I aim to :
+- improve my Data Structures and algorithms skills
+- share my roadmap with others who want to do the same! 
 
 🟢 Easy questions<br />
 🔵 Medium questions<br />
@@ -40,4 +42,4 @@ I aim to solve recent interview questions from Leetcode and all the problems fro
 🔵 [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) - [Solution](https://github.com/snigdha920/Interview-Prep/blob/main/Remove%20Duplicates%20from%20Sorted%20List%20II.cpp)<br />
 🔴 [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) - [Solution](https://github.com/snigdha920/Interview-Prep/blob/main/Remove%20Nth%20Node%20From%20End%20of%20List.cpp)<br />
 🔴 [Partition List](https://leetcode.com/problems/partition-list/) - [Solution](https://github.com/snigdha920/Interview-Prep/blob/main/Partition%20List.cpp)<br />
-🔴 [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) - [Solution](https://github.com/snigdha920/Interview-Prep/blob/main/Palindrome%20Linked%20List.cpp)<br />
+🔴 [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) - [Iterative Solution](https://github.com/snigdha920/Interview-Prep/blob/main/Palindrome%20Linked%20List.cpp), [Recursive Solution](https://github.com/snigdha920/Interview-Prep/blob/main/Palindrome%20Linked%20List%20Recursive.cpp)<br />
