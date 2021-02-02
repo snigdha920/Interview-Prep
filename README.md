@@ -45,4 +45,5 @@ I aim to solve recent interview questions from Leetcode and all the problems fro
 🔴 [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) - [Iterative Solution](https://github.com/snigdha920/Interview-Prep/blob/main/Palindrome%20Linked%20List.cpp), [Recursive Solution](https://github.com/snigdha920/Interview-Prep/blob/main/Palindrome%20Linked%20List%20Recursive.cpp)<br />
 🔴 [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) - [Solution](https://github.com/snigdha920/Interview-Prep/blob/main/Add%20Two%20Numbers.cpp)<br />
 🔴 [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) -  [Solution](https://github.com/snigdha920/Interview-Prep/blob/main/Linked%20List%20Cycle%20II.cpp)<br />
-🔴 [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) - [Solution](https://github.com/snigdha920/Interview-Prep/blob/main/Intersection%20of%20Two%20Linked%20Lists.cpp)
+🔴 [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) - [Solution](https://github.com/snigdha920/Interview-Prep/blob/main/Intersection%20of%20Two%20Linked%20Lists.cpp)<br />
+🔴 [LRUCache](https://leetcode.com/problems/lru-cache/) - [Solution](https://github.com/snigdha920/Interview-Prep/blob/main/LRUCache.cpp)
