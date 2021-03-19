@@ -47,3 +47,6 @@ I aim to solve recent interview questions from Leetcode and all the problems fro
 🔴 [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) -  [Solution](https://github.com/snigdha920/Interview-Prep/blob/main/Linked%20List%20Cycle%20II.cpp)<br />
 🔴 [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) - [Solution](https://github.com/snigdha920/Interview-Prep/blob/main/Intersection%20of%20Two%20Linked%20Lists.cpp)<br />
 🔴 [LRUCache](https://leetcode.com/problems/lru-cache/) - [Solution](https://github.com/snigdha920/Interview-Prep/blob/main/LRUCache.cpp)
+
+## Trees and Graphs
+🔵🔴 [Course Schedule](https://leetcode.com/problems/course-schedule/) - [Solution](https://github.com/snigdha920/Interview-Prep/blob/main/Course%20Schedule.cpp)
