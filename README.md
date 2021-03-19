@@ -50,3 +50,4 @@ I aim to solve recent interview questions from Leetcode and all the problems fro
 
 ## Trees and Graphs
 🔵🔴 [Course Schedule](https://leetcode.com/problems/course-schedule/) - [Solution](https://github.com/snigdha920/Interview-Prep/blob/main/Course%20Schedule.cpp)
+🔵🔴 [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) - [Solution](https://github.com/snigdha920/Interview-Prep/blob/main/Course%20Schedule%20II.cpp)
